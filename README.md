@@ -83,7 +83,7 @@ minus-generator/
 This project is licensed under the MIT License.
 
 ## 💬 Support
-Need help? Open an issue in the GitHub repository or join our Discord server.
+Need help? Open an issue in the GitHub repository or add my discord "connectionhandler".
 
 ## 🔐 Security
 - All stock operations are role-protected
