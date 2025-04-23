@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "clientId": "",
+    "owner": "",
+    "roles": {
+        "bronze": {
+            "id": "",
+            "maxGenerate": 1,
+            "cooldown": 60000
+        },
+        "silver": {
+            "id": "",
+            "maxGenerate": 3,
+            "cooldown": 30000
+        }
+    }
+} 
