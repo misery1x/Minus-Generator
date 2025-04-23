@@ -31,7 +31,7 @@ A powerful Discord bot for managing and generating stock from various services w
 
 ### 1️⃣ Installation
 ```bash
-git clone https://github.com/yourusername/minus-generator.git
+git clone https://github.com/misery1x/Minus-Generator.git
 cd minus-generator
 npm install
 ```
